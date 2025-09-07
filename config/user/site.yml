@@ -1,6 +1,6 @@
 title: 我的导航
 description: 个人网络导航站
-author: TekkenSteve
+author: Your Name
 favicon: favicon.ico
 logo_text: 导航站
 
@@ -17,7 +17,7 @@ fonts:
     family: Noto Sans SC
     weight: 400
     source: google
-
+    
 profile:
   title: Hello,
   subtitle: Welcome to My Navigation
@@ -35,4 +35,4 @@ social:
     icon: fab fa-twitter
   - name: Steam
     url: https://steam.com
-    icon: fab fa-steam
+    icon: fab fa-steam 
